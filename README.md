@@ -1,2 +1,2 @@
-# contacto
-contacto page
+# contact
+contact page
